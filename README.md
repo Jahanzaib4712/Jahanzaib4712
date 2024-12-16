@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jahanzaib4712
+- 👋 Hi, I’m Shahzaib Nadeem
 - 👀 I’m interested in cybersecurity, software development, and artificial intelligence.
 - 🌱 I’m currently learning JavaScript and TypeScript.
 - 💞️ I’m looking to collaborate on exciting tech projects, especially those related to web development and Arduino programming.
